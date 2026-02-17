@@ -1,0 +1,9 @@
+1. create new branch "conflicted" edit "zdanaie.txt" on that branch commit & don't push
+2. go back to main branch edit "zadanie.txt" on main branch commit & push to repository 
+3. fetch changes from origin 
+4. try merge origin main into local "confliced" branch 
+5. resolve conflict 
+6. push "conflicted branch to repository" 
+7. create pr from "conflicted" branch into "main" branch 
+
+
